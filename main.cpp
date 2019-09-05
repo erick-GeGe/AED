@@ -3,9 +3,9 @@
 
 int main()
 {
-    OrderedLinkedList<int> numerosError;
-    numerosError.insertFirst(10);
-    numerosError.insertLast(5);
-    numerosError.insertFirst( 8);
-    numerosError.print();
+    OrderedLinkedList<int> listaOrdenada ;
+    listaOrdenada.insertFirst(10);
+    listaOrdenada.insertLast(5);
+    listaOrdenada.insertFirst( 8);
+    listaOrdenada.print();
 }
